@@ -23,5 +23,3 @@ Use the SQL queries to fetch data tailored for visualization in Power BI. Custom
 ## Contributing
 Contributions to this project are welcome. Please open an issue to discuss potential changes or improvements, or submit a pull request with your proposed modifications.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
