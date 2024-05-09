@@ -1,0 +1,8 @@
+-- Generates data for the funnel chart showing flights per year
+SELECT
+    f.year1,
+    COUNT(DISTINCT f.flight) AS distinct_flights
+FROM
+    flights f
+GROUP BY
+    f.year1;
